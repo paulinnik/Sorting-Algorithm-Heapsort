@@ -1,0 +1,7 @@
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\comba3\Sorting Algorithm Heapsort\Sorting Algorithm Heapsort\bin\Debug\Sorting Algorithm Heapsort.exe.config
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\comba3\Sorting Algorithm Heapsort\Sorting Algorithm Heapsort\bin\Debug\Sorting Algorithm Heapsort.exe
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\comba3\Sorting Algorithm Heapsort\Sorting Algorithm Heapsort\bin\Debug\Sorting Algorithm Heapsort.pdb
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\comba3\Sorting Algorithm Heapsort\Sorting Algorithm Heapsort\obj\Debug\Sorting Algorithm Heapsort.csproj.AssemblyReference.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\comba3\Sorting Algorithm Heapsort\Sorting Algorithm Heapsort\obj\Debug\Sorting Algorithm Heapsort.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\comba3\Sorting Algorithm Heapsort\Sorting Algorithm Heapsort\obj\Debug\Sorting Algorithm Heapsort.exe
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\comba3\Sorting Algorithm Heapsort\Sorting Algorithm Heapsort\obj\Debug\Sorting Algorithm Heapsort.pdb
